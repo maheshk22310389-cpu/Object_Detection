@@ -145,8 +145,8 @@ Objects in the frame will be highlighted with **bounding boxes and labels**.
 
 ## 🧑‍💻 Author
 
-**Your Name**  
-📧 youremail@example.com  
+Mahesh Kachave  
+📧 maheshk22310389@gmail.com  
 💡 Passionate about computer vision, AI optimization, and embedded systems.
 
 ---
