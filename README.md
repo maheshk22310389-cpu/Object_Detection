@@ -135,6 +135,11 @@ Objects in the frame will be highlighted with **bounding boxes and labels**.
 
 ---
 
+##Important Files
+Engine file : https://drive.google.com/file/d/1nWTHc-usCowljAso37nvB345YGxOq1Wx/view?usp=sharing
+ONNX file : https://drive.google.com/file/d/192C1-Cudaslm_bHmEUn3CGSjE16Drh3m/view?usp=sharing
+Pytorch file : https://drive.google.com/file/d/1DR1lX9zFOgvizskgidPqRJ0U7W2VTk69/view?usp=sharing
+
 ## 📚 References
 
 - [Ultralytics YOLOv8 Documentation](https://docs.ultralytics.com/)
