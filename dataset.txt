@@ -1,0 +1,18 @@
+# COCO 2017 Dataset Download Links
+
+Train images (118K):
+http://images.cocodataset.org/zips/train2017.zip
+
+Validation images (5K):
+http://images.cocodataset.org/zips/val2017.zip
+
+Test images (41K, no labels):
+http://images.cocodataset.org/zips/test2017.zip
+
+Annotations (train, val, test):
+http://images.cocodataset.org/annotations/annotations_trainval2017.zip
+
+Test image info:
+http://images.cocodataset.org/annotations/image_info_test2017.zip
+
+Official COCO website: https://cocodataset.org/#download
